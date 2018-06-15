@@ -1,0 +1,2 @@
+# EventBusTest
+android 中使用Eventbus进行activity间通信，对EventBus进行了简单封装
